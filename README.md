@@ -29,14 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAlchemy909&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlchemy909&layout=compact&theme=react)
-
----
-
 ### 🌟 Goals for 2025
 - Build 5 React projects  
 - Learn Git branching & pull requests  
