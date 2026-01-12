@@ -25,7 +25,6 @@
 ### 🧩 Featured Projects
 
 🔹 [**Gsap Project**](#) – Simple HTML, CSS & GSAP website  
-🔹 [**Paste App**](#) – React project using Reducer 
 
 ---
 
